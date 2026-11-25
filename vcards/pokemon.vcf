@@ -6,18 +6,14 @@ FN:Dictionary - Pokemon 01
 ORG:Bulbasaur\, Ivysaur\, Venusaur\, Charmander\, Charmeleon\, Charizard\, 
  Squirtle\, Wartortle\, Blastoise\, Caterpie\, Metapod\, Butterfree\, Weedl
  e\, Kakuna\, Beedrill\, Pidgey\, Pidgeotto\, Pidgeot\, Rattata\, Raticate\
- , Spearow\, Fearow\, Ekans\, Arbok\, Pikachu\, Raichu\, Sandshrew\, Sandsl
- ash\, Nidoran\, Nidorina\, Nidoqueen\, Nidorino\, Nidoking\, Clefairy\, Cl
- efable\, Vulpix\, Ninetales\, Jigglypuff\, Wigglytuff\, Zubat\, Golbat\, O
- ddish\, Vileplume\, Paras\, Parasect\, Venonat\, Venomoth\, Diglett\, Dugt
- rio\, Meowth\, Psyduck\, Golduck\, Mankey\, Primeape\, Growlithe\, Arcanin
- e\, Poliwag\, Poliwhirl\, Poliwrath\, Abra\, Kadabra\, Alakazam\, Machop\,
-  Machoke\, Machamp\, Bellsprout\, Weepinbell\, Victreebel\, Tentacool\, Te
- ntacruel\, Geodude\, Graveler\, Golem\, Ponyta\, Rapidash\, Slowbro\, Magn
- emite\, Magneton\, Farfetch’d\, Farfetch'd\, Doduo\, Dodrio\, Seel\, Dew
- gong
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ , Spearow\, Fearow\, Ekans\, Arbok
+TITLE:Pikachu\, Raichu\, Sandshrew\, Sandslash\, Nidoran\, Nidorina\, Nidoq
+ ueen\, Nidorino\, Nidoking\, Clefairy\, Clefable\, Vulpix\, Ninetales\, Ji
+ gglypuff\, Wigglytuff\, Zubat\, Golbat\, Oddish\, Vileplume\, Paras\, Para
+ sect\, Venonat\, Venomoth\, Diglett
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -25,20 +21,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 02;;;;
 FN:Dictionary - Pokemon 02
-ORG:Grimer\, Muk\, Shellder\, Cloyster\, Gastly\, Gengar\, Onix\, Drowzee\,
-  Hypno\, Krabby\, Kingler\, Voltorb\, Exeggcute\, Exeggutor\, Cubone\, Mar
- owak\, Hitmonlee\, Hitmonchan\, Lickitung\, Koffing\, Weezing\, Rhyhorn\, 
- Rhydon\, Chansey\, Tangela\, Kangaskhan\, Horsea\, Seadra\, Goldeen\, Seak
- ing\, Staryu\, Starmie\, Scyther\, Jynx\, Electabuzz\, Magmar\, Pinsir\, T
- auros\, Magikarp\, Gyarados\, Lapras\, Eevee\, Vaporeon\, Jolteon\, Flareo
- n\, Porygon\, Omanyte\, Omastar\, Kabuto\, Kabutops\, Aerodactyl\, Snorlax
- \, Articuno\, Zapdos\, Moltres\, Dratini\, Dragonair\, Dragonite\, Mewtwo\
- , Chikorita\, Bayleef\, Meganium\, Cyndaquil\, Quilava\, Typhlosion\, Toto
- dile\, Croconaw\, Feraligatr\, Sentret\, Furret\, Hoothoot\, Noctowl\, Led
- yba\, Ledian\, Spinarak\, Ariados\, Crobat\, Chinchou\, Lanturn\, Pichu\, 
- Cleffa\, Igglybuff\, Togepi\, Togetic
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Dugtrio\, Meowth\, Psyduck\, Golduck\, Mankey\, Primeape\, Growlithe\, 
+ Arcanine\, Poliwag\, Poliwhirl\, Poliwrath\, Abra\, Kadabra\, Alakazam\, M
+ achop\, Machoke\, Machamp\, Bellsprout\, Weepinbell\, Victreebel\, Tentaco
+ ol\, Tentacruel\, Geodude\, Graveler
+TITLE:Golem\, Ponyta\, Rapidash\, Slowbro\, Magnemite\, Magneton\, Farfetch
+ ’d\, Farfetch'd\, Doduo\, Dodrio\, Seel\, Dewgong\, Grimer\, Muk\, Shell
+ der\, Cloyster\, Gastly\, Gengar\, Onix\, Drowzee\, Hypno\, Krabby\, Kingl
+ er\, Voltorb\, Exeggcute\, Exeggutor\, Cubone
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -46,20 +39,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 03;;;;
 FN:Dictionary - Pokemon 03
-ORG:Natu\, Xatu\, Mareep\, Flaaffy\, Ampharos\, Bellossom\, Marill\, Azumar
- ill\, Sudowoodo\, Politoed\, Hoppip\, Skiploom\, Jumpluff\, Aipom\, Sunker
- n\, Sunflora\, Yanma\, Wooper\, Quagsire\, Espeon\, Umbreon\, Murkrow\, Sl
- owking\, Misdreavus\, Unown\, Wobbuffet\, Girafarig\, Pineco\, Forretress\
- , Dunsparce\, Gligar\, Steelix\, Snubbull\, Granbull\, Qwilfish\, Scizor\,
-  Shuckle\, Heracross\, Sneasel\, Teddiursa\, Ursaring\, Slugma\, Magcargo\
- , Swinub\, Piloswine\, Corsola\, Remoraid\, Octillery\, Delibird\, Mantine
- \, Skarmory\, Houndour\, Houndoom\, Kingdra\, Phanpy\, Donphan\, Porygon2\
- , Stantler\, Smeargle\, Tyrogue\, Hitmontop\, Smoochum\, Elekid\, Magby\, 
- Miltank\, Blissey\, Raikou\, Entei\, Suicune\, Larvitar\, Pupitar\, Tyrani
- tar\, Lugia\, Ho-Oh\, Celebi\, Treecko\, Grovyle\, Sceptile\, Torchic\, Co
- mbusken\, Blaziken\, Mudkip\, Marshtomp\, Swampert
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Marowak\, Hitmonlee\, Hitmonchan\, Lickitung\, Koffing\, Weezing\, Rhyh
+ orn\, Rhydon\, Chansey\, Tangela\, Kangaskhan\, Horsea\, Seadra\, Goldeen\
+ , Seaking\, Staryu\, Starmie\, Scyther\, Jynx\, Electabuzz\, Magmar\, Pins
+ ir\, Tauros\, Magikarp\, Gyarados\, Lapras
+TITLE:Eevee\, Vaporeon\, Jolteon\, Flareon\, Porygon\, Omanyte\, Omastar\, 
+ Kabuto\, Kabutops\, Aerodactyl\, Snorlax\, Articuno\, Zapdos\, Moltres\, D
+ ratini\, Dragonair\, Dragonite\, Mewtwo\, Chikorita\, Bayleef\, Meganium\,
+  Cyndaquil\, Quilava\, Typhlosion
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -67,20 +57,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 04;;;;
 FN:Dictionary - Pokemon 04
-ORG:Poochyena\, Mightyena\, Zigzagoon\, Linoone\, Wurmple\, Silcoon\, Beaut
- ifly\, Cascoon\, Dustox\, Lotad\, Lombre\, Ludicolo\, Seedot\, Nuzleaf\, S
- hiftry\, Taillow\, Swellow\, Wingull\, Pelipper\, Ralts\, Kirlia\, Gardevo
- ir\, Surskit\, Masquerain\, Shroomish\, Breloom\, Slakoth\, Vigoroth\, Sla
- king\, Nincada\, Ninjask\, Shedinja\, Whismur\, Loudred\, Exploud\, Makuhi
- ta\, Hariyama\, Azurill\, Nosepass\, Skitty\, Delcatty\, Sableye\, Mawile\
- , Lairon\, Aggron\, Meditite\, Medicham\, Electrike\, Manectric\, Plusle\,
-  Minun\, Volbeat\, Illumise\, Roselia\, Gulpin\, Swalot\, Carvanha\, Sharp
- edo\, Wailmer\, Wailord\, Numel\, Camerupt\, Torkoal\, Spoink\, Grumpig\, 
- Spinda\, Trapinch\, Vibrava\, Flygon\, Cacnea\, Cacturne\, Swablu\, Altari
- a\, Zangoose\, Seviper\, Lunatone\, Solrock\, Barboach\, Whiscash\, Corphi
- sh\, Crawdaunt\, Baltoy\, Claydol\, Lileep
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Totodile\, Croconaw\, Feraligatr\, Sentret\, Furret\, Hoothoot\, Noctow
+ l\, Ledyba\, Ledian\, Spinarak\, Ariados\, Crobat\, Chinchou\, Lanturn\, P
+ ichu\, Cleffa\, Igglybuff\, Togepi\, Togetic\, Natu\, Xatu\, Mareep\, Flaa
+ ffy\, Ampharos\, Bellossom\, Marill
+TITLE:Azumarill\, Sudowoodo\, Politoed\, Hoppip\, Skiploom\, Jumpluff\, Aip
+ om\, Sunkern\, Sunflora\, Yanma\, Wooper\, Quagsire\, Espeon\, Umbreon\, M
+ urkrow\, Slowking\, Misdreavus\, Unown\, Wobbuffet\, Girafarig\, Pineco\, 
+ Forretress\, Dunsparce\, Gligar\, Steelix
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -88,20 +75,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 05;;;;
 FN:Dictionary - Pokemon 05
-ORG:Cradily\, Anorith\, Armaldo\, Feebas\, Milotic\, Castform\, Kecleon\, S
- huppet\, Banette\, Duskull\, Dusclops\, Tropius\, Chimecho\, Absol\, Wynau
- t\, Snorunt\, Glalie\, Spheal\, Sealeo\, Walrein\, Clamperl\, Huntail\, Go
- rebyss\, Relicanth\, Luvdisc\, Bagon\, Shelgon\, Salamence\, Beldum\, Meta
- ng\, Metagross\, Regirock\, Regice\, Registeel\, Latias\, Latios\, Kyogre\
- , Groudon\, Rayquaza\, Jirachi\, Deoxys\, Turtwig\, Grotle\, Torterra\, Ch
- imchar\, Monferno\, Infernape\, Piplup\, Prinplup\, Empoleon\, Starly\, St
- aravia\, Staraptor\, Bidoof\, Bibarel\, Kricketot\, Kricketune\, Shinx\, L
- uxio\, Luxray\, Budew\, Roserade\, Cranidos\, Rampardos\, Shieldon\, Basti
- odon\, Burmy\, Wormadam\, Mothim\, Combee\, Vespiquen\, Pachirisu\, Buizel
- \, Floatzel\, Cherubi\, Cherrim\, Shellos\, Gastrodon\, Ambipom\, Drifloon
- \, Drifblim\, Buneary\, Lopunny\, Mismagius
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Snubbull\, Granbull\, Qwilfish\, Scizor\, Shuckle\, Heracross\, Sneasel
+ \, Teddiursa\, Ursaring\, Slugma\, Magcargo\, Swinub\, Piloswine\, Corsola
+ \, Remoraid\, Octillery\, Delibird\, Mantine\, Skarmory\, Houndour\, Hound
+ oom\, Kingdra\, Phanpy\, Donphan
+TITLE:Porygon2\, Stantler\, Smeargle\, Tyrogue\, Hitmontop\, Smoochum\, Ele
+ kid\, Magby\, Miltank\, Blissey\, Raikou\, Entei\, Suicune\, Larvitar\, Pu
+ pitar\, Tyranitar\, Lugia\, Ho-Oh\, Celebi\, Treecko\, Grovyle\, Sceptile\
+ , Torchic\, Combusken\, Blaziken\, Mudkip
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -109,20 +93,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 06;;;;
 FN:Dictionary - Pokemon 06
-ORG:Honchkrow\, Glameow\, Purugly\, Chingling\, Stunky\, Skuntank\, Bronzor
- \, Bronzong\, Bonsly\, Happiny\, Chatot\, Spiritomb\, Gible\, Gabite\, Gar
- chomp\, Munchlax\, Riolu\, Lucario\, Hippopotas\, Hippowdon\, Skorupi\, Dr
- apion\, Croagunk\, Toxicroak\, Carnivine\, Finneon\, Lumineon\, Mantyke\, 
- Snover\, Abomasnow\, Weavile\, Magnezone\, Lickilicky\, Rhyperior\, Tangro
- wth\, Electivire\, Magmortar\, Togekiss\, Yanmega\, Leafeon\, Glaceon\, Gl
- iscor\, Mamoswine\, Porygon-Z\, Gallade\, Probopass\, Dusknoir\, Froslass\
- , Rotom\, Uxie\, Mesprit\, Azelf\, Dialga\, Palkia\, Heatran\, Regigigas\,
-  Giratina\, Cresselia\, Phione\, Manaphy\, Darkrai\, Shaymin\, Arceus\, Vi
- ctini\, Snivy\, Servine\, Serperior\, Tepig\, Pignite\, Emboar\, Oshawott\
- , Dewott\, Samurott\, Patrat\, Watchog\, Lillipup\, Herdier\, Stoutland\, 
- Purrloin\, Liepard\, Pansage\, Simisage\, Pansear\, Simisear
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Marshtomp\, Swampert\, Poochyena\, Mightyena\, Zigzagoon\, Linoone\, Wu
+ rmple\, Silcoon\, Beautifly\, Cascoon\, Dustox\, Lotad\, Lombre\, Ludicolo
+ \, Seedot\, Nuzleaf\, Shiftry\, Taillow\, Swellow\, Wingull\, Pelipper\, R
+ alts\, Kirlia\, Gardevoir\, Surskit
+TITLE:Masquerain\, Shroomish\, Breloom\, Slakoth\, Vigoroth\, Slaking\, Nin
+ cada\, Ninjask\, Shedinja\, Whismur\, Loudred\, Exploud\, Makuhita\, Hariy
+ ama\, Azurill\, Nosepass\, Skitty\, Delcatty\, Sableye\, Mawile\, Lairon\,
+  Aggron\, Meditite\, Medicham\, Electrike
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -130,21 +111,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 07;;;;
 FN:Dictionary - Pokemon 07
-ORG:Panpour\, Simipour\, Munna\, Musharna\, Pidove\, Tranquill\, Unfezant\,
-  Blitzle\, Zebstrika\, Roggenrola\, Boldore\, Gigalith\, Woobat\, Swoobat\
- , Drilbur\, Excadrill\, Audino\, Timburr\, Gurdurr\, Conkeldurr\, Tympole\
- , Palpitoad\, Seismitoad\, Throh\, Sawk\, Sewaddle\, Swadloon\, Leavanny\,
-  Venipede\, Whirlipede\, Scolipede\, Cottonee\, Whimsicott\, Petilil\, Lil
- ligant\, Basculin\, Sandile\, Krokorok\, Krookodile\, Darumaka\, Darmanita
- n\, Maractus\, Dwebble\, Crustle\, Scrafty\, Sigilyph\, Yamask\, Cofagrigu
- s\, Tirtouga\, Carracosta\, Archen\, Archeops\, Trubbish\, Garbodor\, Zoru
- a\, Zoroark\, Minccino\, Cinccino\, Gothita\, Gothorita\, Gothitelle\, Sol
- osis\, Duosion\, Reuniclus\, Ducklett\, Swanna\, Vanillite\, Vanillish\, V
- anilluxe\, Deerling\, Sawsbuck\, Emolga\, Karrablast\, Escavalier\, Foongu
- s\, Amoonguss\, Frillish\, Jellicent\, Alomomola\, Joltik\, Galvantula\, F
- erroseed\, Ferrothorn\, Klink
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Manectric\, Plusle\, Minun\, Volbeat\, Illumise\, Roselia\, Gulpin\, Sw
+ alot\, Carvanha\, Sharpedo\, Wailmer\, Wailord\, Numel\, Camerupt\, Torkoa
+ l\, Spoink\, Grumpig\, Spinda\, Trapinch\, Vibrava\, Flygon\, Cacnea\, Cac
+ turne\, Swablu\, Altaria\, Zangoose
+TITLE:Seviper\, Lunatone\, Solrock\, Barboach\, Whiscash\, Corphish\, Crawd
+ aunt\, Baltoy\, Claydol\, Lileep\, Cradily\, Anorith\, Armaldo\, Feebas\, 
+ Milotic\, Castform\, Kecleon\, Shuppet\, Banette\, Duskull\, Dusclops\, Tr
+ opius\, Chimecho\, Absol\, Wynaut\, Snorunt
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -152,21 +129,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 08;;;;
 FN:Dictionary - Pokemon 08
-ORG:Klang\, Klinklang\, Tynamo\, Eelektrik\, Eelektross\, Elgyem\, Beheeyem
- \, Litwick\, Lampent\, Chandelure\, Axew\, Fraxure\, Haxorus\, Cubchoo\, B
- eartic\, Cryogonal\, Shelmet\, Accelgor\, Stunfisk\, Mienfoo\, Mienshao\, 
- Druddigon\, Golett\, Golurk\, Pawniard\, Bisharp\, Bouffalant\, Rufflet\, 
- Braviary\, Vullaby\, Mandibuzz\, Heatmor\, Deino\, Zweilous\, Hydreigon\, 
- Larvesta\, Volcarona\, Cobalion\, Terrakion\, Virizion\, Tornadus\, Thundu
- rus\, Reshiram\, Zekrom\, Landorus\, Kyurem\, Keldeo\, Meloetta\, Genesect
- \, Chespin\, Quilladin\, Chesnaught\, Fennekin\, Braixen\, Delphox\, Froak
- ie\, Frogadier\, Greninja\, Bunnelby\, Diggersby\, Fletchling\, Fletchinde
- r\, Talonflame\, Scatterbug\, Spewpa\, Vivillon\, Litleo\, Pyroar\, Flabé
- bé\, Flabebe\, Floette\, Florges\, Skiddo\, Gogoat\, Pancham\, Pangoro\, 
- Furfrou\, Espurr\, Meowstic\, Honedge\, Doublade\, Aegislash\, Spritzee\, 
- Aromatisse
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Glalie\, Spheal\, Sealeo\, Walrein\, Clamperl\, Huntail\, Gorebyss\, Re
+ licanth\, Luvdisc\, Bagon\, Shelgon\, Salamence\, Beldum\, Metang\, Metagr
+ oss\, Regirock\, Regice\, Registeel\, Latias\, Latios\, Kyogre\, Groudon\,
+  Rayquaza\, Jirachi\, Deoxys\, Turtwig
+TITLE:Grotle\, Torterra\, Chimchar\, Monferno\, Infernape\, Piplup\, Prinpl
+ up\, Empoleon\, Starly\, Staravia\, Staraptor\, Bidoof\, Bibarel\, Kricket
+ ot\, Kricketune\, Shinx\, Luxio\, Luxray\, Budew\, Roserade\, Cranidos\, R
+ ampardos\, Shieldon\, Bastiodon\, Burmy
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -174,21 +147,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 09;;;;
 FN:Dictionary - Pokemon 09
-ORG:Swirlix\, Slurpuff\, Inkay\, Malamar\, Binacle\, Barbaracle\, Skrelp\, 
- Dragalge\, Clauncher\, Clawitzer\, Helioptile\, Heliolisk\, Tyrunt\, Tyran
- trum\, Amaura\, Aurorus\, Sylveon\, Hawlucha\, Dedenne\, Carbink\, Goomy\,
-  Sliggoo\, Goodra\, Klefki\, Phantump\, Trevenant\, Pumpkaboo\, Gourgeist\
- , Bergmite\, Avalugg\, Noibat\, Noivern\, Xerneas\, Yveltal\, Zygarde\, Di
- ancie\, Hoopa\, Volcanion\, Rowlet\, Dartrix\, Decidueye\, Litten\, Torrac
- at\, Incineroar\, Popplio\, Brionne\, Primarina\, Pikipek\, Trumbeak\, Tou
- cannon\, Yungoos\, Gumshoos\, Grubbin\, Charjabug\, Vikavolt\, Crabrawler\
- , Crabominable\, Oricorio\, Cutiefly\, Ribombee\, Rockruff\, Lycanroc\, Wi
- shiwashi\, Mareanie\, Toxapex\, Mudbray\, Mudsdale\, Dewpider\, Araquanid\
- , Fomantis\, Lurantis\, Morelull\, Shiinotic\, Salandit\, Salazzle\, Stuff
- ul\, Bewear\, Bounsweet\, Steenee\, Tsareena\, Comfey\, Oranguru\, Passimi
- an\, Wimpod
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Wormadam\, Mothim\, Combee\, Vespiquen\, Pachirisu\, Buizel\, Floatzel\
+ , Cherubi\, Cherrim\, Shellos\, Gastrodon\, Ambipom\, Drifloon\, Drifblim\
+ , Buneary\, Lopunny\, Mismagius\, Honchkrow\, Glameow\, Purugly\, Chinglin
+ g\, Stunky\, Skuntank\, Bronzor
+TITLE:Bronzong\, Bonsly\, Happiny\, Chatot\, Spiritomb\, Gible\, Gabite\, G
+ archomp\, Munchlax\, Riolu\, Lucario\, Hippopotas\, Hippowdon\, Skorupi\, 
+ Drapion\, Croagunk\, Toxicroak\, Carnivine\, Finneon\, Lumineon\, Mantyke\
+ , Snover\, Abomasnow\, Weavile\, Magnezone
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -196,20 +165,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 10;;;;
 FN:Dictionary - Pokemon 10
-ORG:Golisopod\, Sandygast\, Palossand\, Pyukumuku\, Silvally\, Minior\, Kom
- ala\, Turtonator\, Togedemaru\, Mimikyu\, Bruxish\, Drampa\, Dhelmise\, Ja
- ngmo-o\, Jangmo\, Hakamo-o\, Hakamo\, Kommo-o\, Kommo\, Tapu\, Koko\, Lele
- \, Bulu\, Fini\, Cosmog\, Cosmoem\, Solgaleo\, Lunala\, Nihilego\, Buzzwol
- e\, Pheromosa\, Xurkitree\, Celesteela\, Kartana\, Guzzlord\, Necrozma\, M
- agearna\, Marshadow\, Poipole\, Naganadel\, Stakataka\, Blacephalon\, Zera
- ora\, Meltan\, Melmetal\, Grookey\, Thwackey\, Rillaboom\, Scorbunny\, Rab
- oot\, Cinderace\, Sobble\, Drizzile\, Inteleon\, Skwovet\, Greedent\, Rook
- idee\, Corvisquire\, Corviknight\, Blipbug\, Dottler\, Orbeetle\, Nickit\,
-  Thievul\, Gossifleur\, Eldegoss\, Wooloo\, Dubwool\, Chewtle\, Drednaw\, 
- Yamper\, Boltund\, Rolycoly\, Carkol\, Coalossal\, Applin\, Flapple\, Appl
- etun\, Silicobra\, Sandaconda\, Cramorant\, Arrokuda\, Barraskewda\, Toxel
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Lickilicky\, Rhyperior\, Tangrowth\, Electivire\, Magmortar\, Togekiss\
+ , Yanmega\, Leafeon\, Glaceon\, Gliscor\, Mamoswine\, Porygon-Z\, Gallade\
+ , Probopass\, Dusknoir\, Froslass\, Rotom\, Uxie\, Mesprit\, Azelf\, Dialg
+ a\, Palkia\, Heatran\, Regigigas
+TITLE:Giratina\, Cresselia\, Phione\, Manaphy\, Darkrai\, Shaymin\, Arceus\
+ , Victini\, Snivy\, Servine\, Serperior\, Tepig\, Pignite\, Emboar\, Oshaw
+ ott\, Dewott\, Samurott\, Patrat\, Watchog\, Lillipup\, Herdier\, Stoutlan
+ d\, Purrloin\, Liepard\, Pansage\, Simisage
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -217,21 +183,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 11;;;;
 FN:Dictionary - Pokemon 11
-ORG:Toxtricity\, Sizzlipede\, Centiskorch\, Clobbopus\, Grapploct\, Siniste
- a\, Polteageist\, Hatenna\, Hattrem\, Hatterene\, Impidimp\, Morgrem\, Gri
- mmsnarl\, Obstagoon\, Perrserker\, Cursola\, Sirfetch’d\, Sirfetch'd\, R
- unerigus\, Milcery\, Alcremie\, Falinks\, Pincurchin\, Snom\, Frosmoth\, S
- tonjourner\, Eiscue\, Indeedee\, Morpeko\, Cufant\, Copperajah\, Dracozolt
- \, Arctozolt\, Dracovish\, Arctovish\, Duraludon\, Dreepy\, Drakloak\, Dra
- gapult\, Zacian\, Zamazenta\, Eternatus\, Kubfu\, Urshifu\, Zarude\, Regie
- leki\, Regidrago\, Glastrier\, Spectrier\, Calyrex\, Wyrdeer\, Kleavor\, U
- rsaluna\, Basculegion\, Sneasler\, Overqwil\, Enamorus\, Sprigatito\, Flor
- agato\, Meowscarada\, Fuecoco\, Crocalor\, Skeledirge\, Quaxly\, Quaxwell\
- , Quaquaval\, Lechonk\, Oinkologne\, Tarountula\, Spidops\, Nymble\, Lokix
- \, Pawmi\, Pawmo\, Pawmot\, Tandemaus\, Maushold\, Fidough\, Dachsbun\, Sm
- oliv\, Dolliv\, Arboliva\, Squawkabilly\, Nacli
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Pansear\, Simisear\, Panpour\, Simipour\, Munna\, Musharna\, Pidove\, T
+ ranquill\, Unfezant\, Blitzle\, Zebstrika\, Roggenrola\, Boldore\, Gigalit
+ h\, Woobat\, Swoobat\, Drilbur\, Excadrill\, Audino\, Timburr\, Gurdurr\, 
+ Conkeldurr\, Tympole\, Palpitoad
+TITLE:Seismitoad\, Throh\, Sawk\, Sewaddle\, Swadloon\, Leavanny\, Venipede
+ \, Whirlipede\, Scolipede\, Cottonee\, Whimsicott\, Petilil\, Lilligant\, 
+ Basculin\, Sandile\, Krokorok\, Krookodile\, Darumaka\, Darmanitan\, Marac
+ tus\, Dwebble\, Crustle\, Scrafty
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -239,20 +201,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 12;;;;
 FN:Dictionary - Pokemon 12
-ORG:Naclstack\, Garganacl\, Charcadet\, Armarouge\, Ceruledge\, Tadbulb\, B
- ellibolt\, Wattrel\, Kilowattrel\, Maschiff\, Mabosstiff\, Shroodle\, Graf
- aiai\, Bramblin\, Brambleghast\, Toedscool\, Toedscruel\, Klawf\, Capsakid
- \, Scovillain\, Rellor\, Rabsca\, Flittle\, Espathra\, Tinkatink\, Tinkatu
- ff\, Tinkaton\, Wiglett\, Wugtrio\, Bombirdier\, Finizen\, Palafin\, Varoo
- m\, Revavroom\, Cyclizar\, Orthworm\, Glimmet\, Glimmora\, Greavard\, Houn
- dstone\, Flamigo\, Cetoddle\, Cetitan\, Veluza\, Dondozo\, Tatsugiri\, Ann
- ihilape\, Clodsire\, Farigiraf\, Dudunsparce\, Kingambit\, Jugulis\, Frigi
- bax\, Arctibax\, Baxcalibur\, Gimmighoul\, Gholdengo\, Wo-Chien\, Chien\, 
- Chien-Pao\, Pao\, Ting-Lu\, Chi-Yu\, Koraidon\, Miraidon\, Dipplin\, Poltc
- hageist\, Sinistcha\, Okidogi\, Munkidori\, Fezandipiti\, Ogerpon\, Archal
- udon\, Hydrapple\, Gouging\, Terapagos\, Pecharunt
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Sigilyph\, Yamask\, Cofagrigus\, Tirtouga\, Carracosta\, Archen\, Arche
+ ops\, Trubbish\, Garbodor\, Zorua\, Zoroark\, Minccino\, Cinccino\, Gothit
+ a\, Gothorita\, Gothitelle\, Solosis\, Duosion\, Reuniclus\, Ducklett\, Sw
+ anna\, Vanillite\, Vanillish\, Vanilluxe
+TITLE:Deerling\, Sawsbuck\, Emolga\, Karrablast\, Escavalier\, Foongus\, Am
+ oonguss\, Frillish\, Jellicent\, Alomomola\, Joltik\, Galvantula\, Ferrose
+ ed\, Ferrothorn\, Klink\, Klang\, Klinklang\, Tynamo\, Eelektrik\, Eelektr
+ oss\, Elgyem\, Beheeyem\, Litwick
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -260,20 +219,17 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 13;;;;
 FN:Dictionary - Pokemon 13
-ORG:Pokémon\, Pokemon\, Pokédex\, Pokedex\, Poké\, Pokéball\, Pokeball\
- , PokéStop\, PokéStops\, Pokestop\, Pokestops\, PokéCoins\, Pokecoins\,
-  Pokémart\, PokéMart\, Pokérus\, Pokétch\, PokéNav\, Pokégear\, Pok
- éathlon\, Pokéblock\, Poffin\, Poffins\, Kanto\, Johto\, Hoenn\, Sinnoh\
- , Unova\, Kalos\, Alola\, Galar\, Hisui\, Paldea\, Kitakami\, Terarium\, O
- rre\, Fiore\, Almia\, Oblivia\, Ransei\, Alolan\, Galarian\, Hisuian\, Pal
- dean\, Kantonian\, Johtonian\, Hoennian\, Sinnohan\, Unovan\, Kalosian\, G
- igantamax\, Gigantamaxed\, Gigantamaxing\, Dynamax\, Dynamaxed\, Dynamaxin
- g\, Gmax\, Dmax\, Terastal\, Terastallize\, Terastallized\, Terastallizing
- \, Terastallization\, Tera\, Hundo\, Hundos\, Shundo\, Shundos\, Nundo\, N
- undos\, PvP\, Viridian\, Celadon\, Ecruteak\, Cianwood\, Littleroot\, Olda
- le\, Petalburg\, Rustboro
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Lampent\, Chandelure\, Axew\, Fraxure\, Haxorus\, Cubchoo\, Beartic\, C
+ ryogonal\, Shelmet\, Accelgor\, Stunfisk\, Mienfoo\, Mienshao\, Druddigon\
+ , Golett\, Golurk\, Pawniard\, Bisharp\, Bouffalant\, Rufflet\, Braviary\,
+  Vullaby\, Mandibuzz\, Heatmor\, Deino
+TITLE:Zweilous\, Hydreigon\, Larvesta\, Volcarona\, Cobalion\, Terrakion\, 
+ Virizion\, Tornadus\, Thundurus\, Reshiram\, Zekrom\, Landorus\, Kyurem\, 
+ Keldeo\, Meloetta\, Genesect\, Chespin\, Quilladin\, Chesnaught\, Fennekin
+ \, Braixen\, Delphox\, Froakie\, Frogadier
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
 BEGIN:VCARD
@@ -281,19 +237,194 @@ VERSION:3.0
 PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
 N:Dictionary - Pokemon 14;;;;
 FN:Dictionary - Pokemon 14
-ORG:Dewford\, Mauville\, Verdanturf\, Fallarbor\, Fortree\, Lilycove\, Moss
- deep\, Sootopolis\, Pacifidlog\, Twinleaf\, Sandgem\, Jubilife\, Oreburgh\
- , Floaroma\, Eterna\, Hearthome\, Solaceon\, Veilstone\, Pastoria\, Celest
- ic\, Canalave\, Snowpoint\, Nuvema\, Accumula\, Striaton\, Nacrene\, Caste
- lia\, Nimbasa\, Driftveil\, Mistralton\, Icirrus\, Opelucid\, Lumiose\, Sa
- ntalune\, Shalour\, Coumarine\, Laverre\, Anistar\, Hau'oli\, Iki\, Koniko
- ni\, Malie\, Postwick\, Wedgehurst\, Motostoke\, Hammerlocke\, Stow-on-Sid
- e\, Ballonlea\, Circhester\, Spikemuth\, Wyndon\, Mesagoza\, Levincia\, Ca
- scarrafa\, Artazon\, Medali\, Montenevera\, Alfornada\, Ketchum\, Kukui\, 
- Lusamine\, Gladion\, Lillie\, Nemona\, Arven\, Kieran\, Hau\, Lysandre\, G
- hetsis\, Raihan\, Kabu\, Marnie\, Piers\, Iono\, Geeta\, Turo\, Sada\, Vol
- o
-NOTE:Autocorrect helper: iOS accepts the words in the Company field as real
-  words. Free from https://kalamazandy.github.io. Safe to delete.
+ORG:Greninja\, Bunnelby\, Diggersby\, Fletchling\, Fletchinder\, Talonflame
+ \, Scatterbug\, Spewpa\, Vivillon\, Litleo\, Pyroar\, Flabébé\, Flabebe\
+ , Floette\, Florges\, Skiddo\, Gogoat\, Pancham\, Pangoro\, Furfrou\, Espu
+ rr\, Meowstic\, Honedge\, Doublade
+TITLE:Aegislash\, Spritzee\, Aromatisse\, Swirlix\, Slurpuff\, Inkay\, Mala
+ mar\, Binacle\, Barbaracle\, Skrelp\, Dragalge\, Clauncher\, Clawitzer\, H
+ elioptile\, Heliolisk\, Tyrunt\, Tyrantrum\, Amaura\, Aurorus\, Sylveon\, 
+ Hawlucha\, Dedenne\, Carbink\, Goomy
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 15;;;;
+FN:Dictionary - Pokemon 15
+ORG:Sliggoo\, Goodra\, Klefki\, Phantump\, Trevenant\, Pumpkaboo\, Gourgeis
+ t\, Bergmite\, Avalugg\, Noibat\, Noivern\, Xerneas\, Yveltal\, Zygarde\, 
+ Diancie\, Hoopa\, Volcanion\, Rowlet\, Dartrix\, Decidueye\, Litten\, Torr
+ acat\, Incineroar\, Popplio\, Brionne
+TITLE:Primarina\, Pikipek\, Trumbeak\, Toucannon\, Yungoos\, Gumshoos\, Gru
+ bbin\, Charjabug\, Vikavolt\, Crabrawler\, Crabominable\, Oricorio\, Cutie
+ fly\, Ribombee\, Rockruff\, Lycanroc\, Wishiwashi\, Mareanie\, Toxapex\, M
+ udbray\, Mudsdale\, Dewpider\, Araquanid
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 16;;;;
+FN:Dictionary - Pokemon 16
+ORG:Fomantis\, Lurantis\, Morelull\, Shiinotic\, Salandit\, Salazzle\, Stuf
+ ful\, Bewear\, Bounsweet\, Steenee\, Tsareena\, Comfey\, Oranguru\, Passim
+ ian\, Wimpod\, Golisopod\, Sandygast\, Palossand\, Pyukumuku\, Silvally\, 
+ Minior\, Komala\, Turtonator
+TITLE:Togedemaru\, Mimikyu\, Bruxish\, Drampa\, Dhelmise\, Jangmo-o\, Jangm
+ o\, Hakamo-o\, Hakamo\, Kommo-o\, Kommo\, Tapu\, Koko\, Lele\, Bulu\, Fini
+ \, Cosmog\, Cosmoem\, Solgaleo\, Lunala\, Nihilego\, Buzzwole\, Pheromosa\
+ , Xurkitree\, Celesteela\, Kartana\, Guzzlord
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 17;;;;
+FN:Dictionary - Pokemon 17
+ORG:Necrozma\, Magearna\, Marshadow\, Poipole\, Naganadel\, Stakataka\, Bla
+ cephalon\, Zeraora\, Meltan\, Melmetal\, Grookey\, Thwackey\, Rillaboom\, 
+ Scorbunny\, Raboot\, Cinderace\, Sobble\, Drizzile\, Inteleon\, Skwovet\, 
+ Greedent\, Rookidee\, Corvisquire
+TITLE:Corviknight\, Blipbug\, Dottler\, Orbeetle\, Nickit\, Thievul\, Gossi
+ fleur\, Eldegoss\, Wooloo\, Dubwool\, Chewtle\, Drednaw\, Yamper\, Boltund
+ \, Rolycoly\, Carkol\, Coalossal\, Applin\, Flapple\, Appletun\, Silicobra
+ \, Sandaconda\, Cramorant\, Arrokuda
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 18;;;;
+FN:Dictionary - Pokemon 18
+ORG:Barraskewda\, Toxel\, Toxtricity\, Sizzlipede\, Centiskorch\, Clobbopus
+ \, Grapploct\, Sinistea\, Polteageist\, Hatenna\, Hattrem\, Hatterene\, Im
+ pidimp\, Morgrem\, Grimmsnarl\, Obstagoon\, Perrserker\, Cursola\, Sirfetc
+ h’d\, Sirfetch'd\, Runerigus\, Milcery
+TITLE:Alcremie\, Falinks\, Pincurchin\, Snom\, Frosmoth\, Stonjourner\, Eis
+ cue\, Indeedee\, Morpeko\, Cufant\, Copperajah\, Dracozolt\, Arctozolt\, D
+ racovish\, Arctovish\, Duraludon\, Dreepy\, Drakloak\, Dragapult\, Zacian\
+ , Zamazenta\, Eternatus\, Kubfu\, Urshifu
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 19;;;;
+FN:Dictionary - Pokemon 19
+ORG:Zarude\, Regieleki\, Regidrago\, Glastrier\, Spectrier\, Calyrex\, Wyrd
+ eer\, Kleavor\, Ursaluna\, Basculegion\, Sneasler\, Overqwil\, Enamorus\, 
+ Sprigatito\, Floragato\, Meowscarada\, Fuecoco\, Crocalor\, Skeledirge\, Q
+ uaxly\, Quaxwell\, Quaquaval\, Lechonk
+TITLE:Oinkologne\, Tarountula\, Spidops\, Nymble\, Lokix\, Pawmi\, Pawmo\, 
+ Pawmot\, Tandemaus\, Maushold\, Fidough\, Dachsbun\, Smoliv\, Dolliv\, Arb
+ oliva\, Squawkabilly\, Nacli\, Naclstack\, Garganacl\, Charcadet\, Armarou
+ ge\, Ceruledge\, Tadbulb\, Bellibolt
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 20;;;;
+FN:Dictionary - Pokemon 20
+ORG:Wattrel\, Kilowattrel\, Maschiff\, Mabosstiff\, Shroodle\, Grafaiai\, B
+ ramblin\, Brambleghast\, Toedscool\, Toedscruel\, Klawf\, Capsakid\, Scovi
+ llain\, Rellor\, Rabsca\, Flittle\, Espathra\, Tinkatink\, Tinkatuff\, Tin
+ katon\, Wiglett\, Wugtrio\, Bombirdier
+TITLE:Finizen\, Palafin\, Varoom\, Revavroom\, Cyclizar\, Orthworm\, Glimme
+ t\, Glimmora\, Greavard\, Houndstone\, Flamigo\, Cetoddle\, Cetitan\, Velu
+ za\, Dondozo\, Tatsugiri\, Annihilape\, Clodsire\, Farigiraf\, Dudunsparce
+ \, Kingambit\, Jugulis\, Frigibax
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 21;;;;
+FN:Dictionary - Pokemon 21
+ORG:Arctibax\, Baxcalibur\, Gimmighoul\, Gholdengo\, Wo-Chien\, Chien\, Chi
+ en-Pao\, Pao\, Ting-Lu\, Chi-Yu\, Koraidon\, Miraidon\, Dipplin\, Poltchag
+ eist\, Sinistcha\, Okidogi\, Munkidori\, Fezandipiti\, Ogerpon\, Archaludo
+ n\, Hydrapple\, Gouging\, Terapagos
+TITLE:Pecharunt\, Pokémon\, Pokemon\, Pokédex\, Pokedex\, Poké\, Pokéba
+ ll\, Pokeball\, PokéStop\, PokéStops\, Pokestop\, Pokestops\, PokéCoins
+ \, Pokecoins\, Pokémart\, PokéMart\, Pokérus\, Pokétch\, PokéNav\, Po
+ kégear\, Pokéathlon\, Pokéblock\, Poffin\, Poffins
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 22;;;;
+FN:Dictionary - Pokemon 22
+ORG:Kanto\, Johto\, Hoenn\, Sinnoh\, Unova\, Kalos\, Alola\, Galar\, Hisui\
+ , Paldea\, Kitakami\, Terarium\, Orre\, Fiore\, Almia\, Oblivia\, Ransei\,
+  Alolan\, Galarian\, Hisuian\, Paldean\, Kantonian\, Johtonian\, Hoennian\
+ , Sinnohan\, Unovan\, Kalosian\, Gigantamax
+TITLE:Gigantamaxed\, Gigantamaxing\, Dynamax\, Dynamaxed\, Dynamaxing\, Gma
+ x\, Dmax\, Terastal\, Terastallize\, Terastallized\, Terastallizing\, Tera
+ stallization\, Tera\, Hundo\, Hundos\, Shundo\, Shundos\, Nundo\, Nundos\,
+  PvP\, Viridian\, Celadon\, Ecruteak
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 23;;;;
+FN:Dictionary - Pokemon 23
+ORG:Cianwood\, Littleroot\, Oldale\, Petalburg\, Rustboro\, Dewford\, Mauvi
+ lle\, Verdanturf\, Fallarbor\, Fortree\, Lilycove\, Mossdeep\, Sootopolis\
+ , Pacifidlog\, Twinleaf\, Sandgem\, Jubilife\, Oreburgh\, Floaroma\, Etern
+ a\, Hearthome\, Solaceon\, Veilstone
+TITLE:Pastoria\, Celestic\, Canalave\, Snowpoint\, Nuvema\, Accumula\, Stri
+ aton\, Nacrene\, Castelia\, Nimbasa\, Driftveil\, Mistralton\, Icirrus\, O
+ pelucid\, Lumiose\, Santalune\, Shalour\, Coumarine\, Laverre\, Anistar\, 
+ Hau'oli\, Iki\, Konikoni\, Malie\, Postwick
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
+URL:https://kalamazandy.github.io
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//kalamazandy.github.io//Dictionary vCards//EN
+N:Dictionary - Pokemon 24;;;;
+FN:Dictionary - Pokemon 24
+ORG:Wedgehurst\, Motostoke\, Hammerlocke\, Stow-on-Side\, Ballonlea\, Circh
+ ester\, Spikemuth\, Wyndon\, Mesagoza\, Levincia\, Cascarrafa\, Artazon\, 
+ Medali\, Montenevera\, Alfornada\, Ketchum\, Kukui\, Lusamine\, Gladion\, 
+ Lillie\, Nemona\, Arven\, Kieran\, Hau
+TITLE:Lysandre\, Ghetsis\, Raihan\, Kabu\, Marnie\, Piers\, Iono\, Geeta\, 
+ Turo\, Sada\, Volo
+NOTE:Autocorrect helper: iOS accepts the words in the Company and Job Title
+  fields as real words. Free from https://kalamazandy.github.io. Safe to de
+ lete.
 URL:https://kalamazandy.github.io
 END:VCARD
