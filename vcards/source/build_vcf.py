@@ -4,7 +4,7 @@
 Run from anywhere:  python3 vcards/source/build_vcf.py
 
 Each contact is named "Dictionary - Pokemon NN" and holds its words,
-separated by spaces, in the Company field. iOS treats words in a contact's
+separated by commas, in the Company field. iOS treats words in a contact's
 First, Last and Company fields as real words, so autocorrect leaves them alone,
 while the contact list only shows the short name.
 """
@@ -51,7 +51,7 @@ def card(title, words, note):
         "PRODID:-//kalamazandy.github.io//Dictionary vCards//EN",
         f"N:{escape(title)};;;;",
         f"FN:{escape(title)}",
-        f"ORG:{escape(' '.join(words))}",
+        f"ORG:{escape(', '.join(words))}",
         f"NOTE:{escape(note)}",
         f"URL:{SITE}",
         "END:VCARD",
