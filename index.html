@@ -14,12 +14,19 @@
 
   <h2 id="vcards">Autocorrect fix contact packs</h2>
   <p>iOS learns spellings from your contacts. Import one of these packs and your iPhone stops "correcting" these names.</p>
+  <p id="open-in-safari" class="notice" hidden>These packs need Safari. <a href="x-safari-https://kalamazandy.github.io/#vcards">Open this page in Safari</a></p>
+  <ol class="steps">
+    <li>Open this page in <strong>Safari</strong> on your iPhone. Other browsers only show the first contact.</li>
+    <li>Tap a pack's <strong>Download .vcf</strong> link. You'll see just the first contact.</li>
+    <li>Tap the <strong>Send</strong> button, then choose <strong>Contacts</strong>.</li>
+    <li>Tap <strong>Add All Contacts</strong> to add the whole pack at once.</li>
+  </ol>
   <div class="cards">
     <div class="card">
       <h3>Pokémon names</h3>
       <p>All 1,025 Pokémon plus words like Pokédex, Sinnoh, Alolan and Gigantamax. Adds 14 contacts named "Dictionary - Pokemon 01" to "14".</p>
       <a href="vcards/pokemon.vcf">Download .vcf</a>
-      <p class="how">On iPhone: tap the link, then tap Add All Contacts. Updating later? Delete the old "Dictionary - Pokemon" contacts first.</p>
+      <p class="how">Updating later? Delete the old "Dictionary - Pokemon" contacts first.</p>
     </div>
     <div class="card soon">
       <h3>More categories</h3>
@@ -41,5 +48,13 @@
 
   <footer>Made by Andy · Hosted free on GitHub Pages</footer>
 </main>
+<script>
+  // On iPhone, Chrome, Firefox, Edge and similar browsers can't add a whole
+  // contact pack, so offer a one-tap jump to Safari.
+  var ua = navigator.userAgent;
+  if (/iPhone|iPad|iPod/.test(ua) && /CriOS|FxiOS|EdgiOS|OPiOS|DuckDuckGo|GSA\//.test(ua)) {
+    document.getElementById("open-in-safari").hidden = false;
+  }
+</script>
 </body>
 </html>

@@ -15,3 +15,7 @@ a { color:var(--accent); }
 .kofi { display:inline-block; background:var(--accent); color:#fff; text-decoration:none; font-weight:600; padding:10px 18px; border-radius:999px; }
 footer { margin-top:3em; padding-top:1.5em; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
 .card p.how { margin:.6em 0 0; font-size:.85rem; }
+.steps { padding-left:1.3em; margin:0 0 1.2em; }
+.steps li { margin:.2em 0; }
+.notice { background:var(--card); border:1px solid var(--accent); border-radius:12px; padding:12px 16px; }
+.notice a { font-weight:600; }
